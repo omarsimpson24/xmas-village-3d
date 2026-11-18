@@ -2,7 +2,7 @@
 
 Interactive 3D plan for a ski-town Christmas village on a 73.5 × 16.5 in shelf in a wall niche. A cobblestone town plaza sits along the front with the carousel and popcorn diorama, the Candy Clock Tower and the Church & Skating Pond scene. A carved EPS mountain rises behind it, and the wooden houses and the Ski Chalet climb switchback ledges on both wings. There's a frozen mirror pond and crossed skis on the wall above the summit.
 
-The carousel and popcorn diorama is now a phone scan of the real piece (models/carousel-scan.glb, 1.2 MB). It's scaled to the measured 16.5 in length, and its depth and height come from the scan's proportions, so they're estimates until measured.
+The whole scene is drawn in a storybook illustration style: cel shading, ink outlines, frosting snow with drips on the roofs and the foam ledges, a cream parchment backdrop and gentle falling snow (Night switches to a dusk sky). The carousel and popcorn diorama is rebuilt in that style on the footprint of a phone scan of the real piece. It has the upright popcorn cart, the turning carousel with bobbing horses, and globe lamp posts. Its card can show the raw scan (models/carousel-scan.glb, 1.2 MB). It's scaled to the measured 16.5 in length; its depth and height come from the scan's proportions, so they're estimates until measured.
 
 Open: https://omarsimpson24.github.io/xmas-village-3d/
 
