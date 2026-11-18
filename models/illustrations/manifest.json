@@ -1,0 +1,18 @@
+{
+ "items": {
+  "D1": {
+   "image": "models/illustrations/D1.webp",
+   "palette": [
+    "#3c251a",
+    "#fbe8c7",
+    "#b49473",
+    "#81593d",
+    "#7d2e17"
+   ],
+   "updated": "2026-11-18",
+   "name": "Carousel + popcorn motion diorama",
+   "original": "models/illustrations/d1-illustration-final.jpg"
+  }
+ },
+ "about": "Maps a catalog SKU / key, custom-piece id or plan id to its storybook illustration and palette. Written by add_illustration.py."
+}

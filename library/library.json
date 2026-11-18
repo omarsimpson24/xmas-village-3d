@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "planning-layout",
+    "title": "Planning & Layout",
+    "icon": "📐",
+    "summary": "Decide levels, sightlines, scale and cord routes on paper before you cut any foam. Most \"my village looks flat or cluttered\" problems trace back to skipping this step.",
+    "difficulty": "Easy",
+    "time": "1–2 evenings",
+    "sections": [
+      {
+        "heading": "Why plan first",
+        "body_markdown": "Experienced builders keep repeating the same advice: hide cords *during planning, not after*, test the lights before the snow goes down, and leave room for your hands to reach the switches. A quick top-down sketch with zones (street, plaza, slopes) and the outlet marked saves you from tearing up finished scenery later."
+      },
+      {
+        "heading": "Step by step",
+        "body_markdown": "1. **Measure the real footprint** you can reach. Note the outlet, the gap at the back, and how far in you can reach without knocking things over.\n2. **Sketch zones front to back.** Put a low front street for small pieces and open sightlines, a middle band for the main buildings, and a tall rear band for the mountain, backdrop and cord path.\n3. **Set heights.** Put tall pieces at the back on raised levels and small pieces in front so every roof stays visible. Use risers, terraces or carved foam rather than a flat row.\n4. **Turn the fronts toward the viewer.** Most people look from one or two spots. Angle buildings a little so the streets feel natural, but keep the detailed side facing the room.\n5. **Plan forced perspective.** Smaller pieces and trees go higher and farther back. Keep them away from full-size pieces so the trick doesn't show.\n6. **Mark every cord path and access opening** on the sketch: a hole behind each building, the run to the power strip, and an open-air spot for the power bricks.\n7. **Dry-fit everything** at night with the lights on, from the main viewing spot. Then take a photo."
+      },
+      {
+        "heading": "Scale reality check",
+        "body_markdown": "Village buildings aren't one true scale. Lemax and Dept 56 buildings run roughly **1:64 to 1:48**, with lots of squeezing, while their figures are much bigger, close to **1:24**. You can hide the mismatch by clustering buildings of similar size and moving slightly smaller ones farther back, where they read as \"distant.\""
+      }
+    ],
+    "tips": [
+      "Builders on r/ChristmasVillages write on each foam riser block with a Sharpie to say which building sits on it, so next year's setup goes quickly. (https://www.reddit.com/r/ChristmasVillages/comments/1oiw3xw/what_do_you_use_to_add_height_or_depth_to_your/)",
+      "Model Railroader's forced-perspective rule: never put two scales close together. Tuck the smaller pieces just past the crest of a hill and partly hide them with trees. (https://www.trains.com/mrr/how-to/expert-tips/using-forced-perspective/)",
+      "Cluster buildings of the same size, and push slightly smaller ones toward the back so they look farther away. (https://dfarq.homeip.net/tips-for-using-dept-56-and-lemax-type-buildings-with-lionel-trains/)",
+      "Fill about two-thirds of the space and leave the last third as breathing room. Overcrowding is the most common display mistake. (https://thechristmasvillages.com/christmas-village-display/)",
+      "Drill a hole about 1\" wide in the base behind each house, feed the cord down through it, and run it underneath. (https://impactdriverdrill.com/diy-christmas-village-display-platform/)",
+      "Take photos of the layout before teardown, and plan reachable switches and cords as part of the design. (https://villagedex.com/blog/review-revision-how-to-build-multi-level-christmas-village-display-platform-20261014)",
+      "r/ChristmasVillages builders use 2\" insulation foam sheets and a hot knife as a cheaper alternative to store-bought platforms. (https://www.reddit.com/r/ChristmasVillages/comments/ds2ndd/village_platforms/)"
+    ],
+    "mistakes": [
+      "Setting everything at one height, which leaves a flat row with no depth.",
+      "Turning buildings to face each other, so their best sides point away from the viewer.",
+      "Putting a small-scale piece right next to a full-size one, which spoils forced perspective.",
+      "Burying cords under fixed scenery where you can't reach or check them.",
+      "Filling every inch of the surface."
+    ],
+    "materials": [
+      {
+        "item": "Graph paper or a printout of the planner's top view",
+        "price_note": "",
+        "source": ""
+      },
+      {
+        "item": "Tape measure and painter's tape to mock up zones on the shelf",
+        "price_note": "",
+        "source": ""
+      },
+      {
+        "item": "Sharpie for labeling riser blocks",
+        "price_note": "",
+        "source": "https://www.reddit.com/r/ChristmasVillages/comments/1oiw3xw/what_do_you_use_to_add_height_or_depth_to_your/"
+      }
+    ],
+    "applies_to_omar": "Your shelf is 73.5\" wide and 16.5\" deep, with a 4.5\" gap behind it. Plan three bands from front to back: a street and plaza about 5–6\" deep, a middle band for the town buildings, and the mountain at the back. Use the 4.5\" gap as your cord channel and as the home for power bricks and strips, where they get open air and stay reachable. For forced perspective, put the *smallest* wooden houses highest on the mountain and use smaller trees up there. Keep the big diorama, the clock tower and the church in the front plaza, where their scale matches the figures. Try the layout in the planner's Move mode first, then mark it out on the real shelf with painter's tape.",
+    "sources": [
+      {
+        "title": "Christmas Village Display Guide: visual planning, assembly and arrangement (The Momentree)",
+        "url": "https://themomentree.com/christmas-village-display-guide-visual-planning-assembly-and-creative-arrangement/"
+      },
+      {
+        "title": "How to Build a DIY Christmas Village Display Platform (ImpactDriverDrill)",
+        "url": "https://impactdriverdrill.com/diy-christmas-village-display-platform/"
+      },
+      {
+        "title": "Multi-Level Christmas Village Display Platforms: Planning and Materials (VillageDex)",
+        "url": "https://villagedex.com/blog/review-revision-how-to-build-multi-level-christmas-village-display-platform-20261014"
+      },
+      {
+        "title": "Christmas Village Display Tips: Elegant vs Tacky (TheChristmasVillages.com)",
+        "url": "https://thechristmasvillages.com/christmas-village-display/"
+      },
+      {
+        "title": "Using forced perspective, Model Railroader (Trains.com)",
+        "url": "https://www.trains.com/mrr/how-to/expert-tips/using-forced-perspective/"
+      },
+      {
+        "title": "Tips for using Dept. 56 and Lemax-type buildings with Lionel trains (Dave Farquhar)",
+        "url": "https://dfarq.homeip.net/tips-for-using-dept-56-and-lemax-type-buildings-with-lionel-trains/"
+      },
+      {
+        "title": "What do you use to add height or depth to your villages? (r/ChristmasVillages)",
+        "url": "https://www.reddit.com/r/ChristmasVillages/comments/1oiw3xw/what_do_you_use_to_add_height_or_depth_to_your/"
+      },
+      {
+        "title": "Village Platforms (r/ChristmasVillages)",
+        "url": "https://www.reddit.com/r/ChristmasVillages/comments/ds2ndd/village_platforms/"
+      }
+    ]
+  },
+  {
+    "id": "foam-mountains-rock",
+    "title": "Foam Mountains & Rock",
+    "icon": "⛰️",
+    "summary": "Stack and glue 2\" foam, carve it roughly, seal it with a hard shell (plaster cloth, Sculptamold or spackle), then color the rock with a dark base and light dry-brushing, or with Woodland Scenics washes.",
+    "difficulty": "Medium",
+    "time": "2–4 weekends (mostly drying time)",
+    "sections": [
+      {
+        "heading": "EPS vs XPS",
+        "body_markdown": "**EPS** (white beadboard) is cheap and light, and great for building up bulk terrain. It's messy, though (beads everywhere), and too crumbly for fine detail, so plan on covering it with plaster, spackle, foil or clay. **XPS** (pink or blue insulation board) is dense, so it holds carved stone, brick and cliff detail much better. A common approach is EPS for the bulk and XPS or a hard shell for the detail."
+      },
+      {
+        "heading": "Step by step",
+        "body_markdown": "1. **Lay out terraces.** Hot Wire Foam Factory's village method stacks 2\" sheets toward one back corner to make levels, then cuts 7\" and 9\" strips with jagged peaks for the backdrop mountains, with the 9\" strip behind the 7\".\n2. **Cut holes for cords and lights *before* gluing.**\n3. **Glue with a foam-safe adhesive**, either a solvent-free foam glue or a *low-temp* glue gun. Keep hot glue away from lines you'll carve later, because it drags on the blade.\n4. **Carve** with a hot-wire sculpting tool, hot knife, serrated knife or Surform rasp. Practice on scrap first. Messier cuts often look more natural. One OGR forum member roughs up pink foam with a cat's-paw pry bar and a grinder.\n5. **Peel off any plastic film** on insulation board and scuff the surface so coatings stick.\n6. **Add the hard shell.** Dip plaster cloth in water, lay it bumpy side up, overlap the strips, and smooth it with wet fingers. Two layers is common. Or spread on a couple of millimeters of Sculptamold mixed fairly dry. It sticks well to foam and sets hard in about an hour. Spackle or joint compound also works.\n7. **Press or carve rock texture** into the damp coating, or roll crumpled foil over the foam faces.\n8. **Color the rock** (see below), and add snow last."
+      },
+      {
+        "heading": "Painting rock: two proven methods",
+        "body_markdown": "**Dark base and dry-brush** (from FG Square Village): brush dark paint into every joint and let it dry. Load a little gray, wipe most of it off, and skim it over the raised texture. Repeat with a lighter gray, then touch only the highest points with white. Keep the recesses dark.\n\n**Woodland Scenics \"Leopard Spot\" washes:** mix two secondary washes at **1 part pigment to 16 parts water** (for example Yellow Ocher and Burnt Umber) and a main wash at **1:32** (Black). Dab each secondary color over a different third of the rock and leave the last third white. Flood the black wash over everything. Once it's dry, seal it, then brush on a stronger **1:16 black** wash to bring out the cracks."
+      },
+      {
+        "heading": "Safety",
+        "body_markdown": "Cutting EPS and XPS with a hot wire gives off fumes. Lab safety procedures call for ventilation that pulls fumes away right at the wire, so cut in a ventilated space or outdoors, don't overheat the wire, and keep kids out of the work area. Solvent-based spray paint and glue melt polystyrene, so use water-based products, or seal the foam completely before spraying anything."
+      }
+    ],
+    "tips": [
+      "Hot Wire Foam Factory: cut holes for lights and wires before gluing the layers together, and bend an outward loop into the hot wire to carve valleys. (https://gallery.hotwirefoamfactory.com/modeling/village-displays/vd_village101/)",
+      "OGR forum builders found that Sculptamold slides on bare foam. Their fixes: roughen the foam with a Surform or screwdriver, peel off the plastic skin, or lay plaster cloth down first. (https://ogrforum.com/topic/pink-foam-sculptamold-and-plaster-cloth)",
+      "The OGR editor-in-chief's order of work: stack and glue 2\" XPS, carve the rough shape, cover it with a couple of layers of plaster cloth, then use Sculptamold for the final terrain and rock faces. (https://ogrforum.com/topic/pink-foam-sculptamold-and-plaster-cloth)",
+      "A cheaper hard shell from the same thread: commercial paper towels dipped in runny plaster. It's messier, but it costs much less than plaster cloth. (https://ogrforum.com/topic/pink-foam-sculptamold-and-plaster-cloth)",
+      "Farnham MRC: mix Sculptamold in small batches and wash the mug between batches, because leftovers make the next batch set too fast. Press rocks in while it's still damp. (https://farnhammrc.org.uk/wp-content/uploads/2016/02/Scultamold.pdf)",
+      "Woodland Scenics: always leave part of the rock white before the black wash so the colors look natural. (https://woodlandscenics.woodlandscenics.com/instructions/C1215inst.pdf)",
+      "FG Square Village: if your stone looks flat, the light coats have filled in the joints. Wipe more paint off the brush and build up highlights in light passes. (https://www.fgsquarevillage.com/pages/christmas-village-guide)"
+    ],
+    "mistakes": [
+      "Spray-painting bare foam, because the solvent propellant melts it.",
+      "Trying to carve fine stone detail in crumbly EPS without a hard shell.",
+      "Laying Sculptamold on slick foam, where it slides and you end up piling it on too thick.",
+      "Gluing the layers before cutting the cord holes.",
+      "Over-highlighting rock until the recesses lose their shadows.",
+      "Hot-wire cutting indoors without ventilation."
+    ],
+    "materials": [
+      {
+        "item": "2\" foam board (EPS for bulk, XPS for detail)",
+        "price_note": "",
+        "source": "https://modelrailwayengineer.com/library/eps-foam-or-xps-foam-which-is-best-for-diorama-making/"
+      },
+      {
+        "item": "Foam-safe glue (solvent-free foam adhesive or a low-temp glue gun)",
+        "price_note": "",
+        "source": "https://gallery.hotwirefoamfactory.com/modeling/village-displays/vd_village101/"
+      },
+      {
+        "item": "Plaster cloth",
+        "price_note": "OGR forum members call it \"pricey\"; plaster-dipped paper towels are a cheaper substitute",
+        "source": "https://ogrforum.com/topic/pink-foam-sculptamold-and-plaster-cloth"
+      },
+      {
+        "item": "Sculptamold",
+        "price_note": "Under £10 for a 3 lb bag that covers 5–10 sq ft (UK club write-up, 2016)",
+        "source": "https://farnhammrc.org.uk/wp-content/uploads/2016/02/Scultamold.pdf"
+      },
+      {
+        "item": "Lightweight spackle or joint compound",
+        "price_note": "",
+        "source": "https://ogrforum.com/topic/pink-foam-sculptamold-and-plaster-cloth"
+      },
+      {
+        "item": "Black, gray and white acrylic paint, or Woodland Scenics Earth Colors pigments",
+        "price_note": "",
+        "source": "https://woodlandscenics.woodlandscenics.com/instructions/C1215inst.pdf"
+      },
+      {
+        "item": "Hot-wire tool, hot knife, Surform rasp or serrated knife",
+        "price_note": "",
+        "source": "https://gallery.hotwirefoamfactory.com/modeling/village-displays/vd_village101/"
+      },
+      {
+        "item": "Crumpled aluminum foil for rock texture",
+        "price_note": "",
+        "source": "https://www.fgsquarevillage.com/pages/christmas-village-guide"
+      }
+    ],
+    "applies_to_omar": "Your plan already matches what the community recommends: 2\" EPS sheet, foam-safe PL300 glue, lightweight spackle plus plaster cloth, and acrylic paint only, with no spray. Two additions. EPS won't hold crisp edges, so carve only the *big* shapes in the foam and get the fine rock and step detail from the spackle and plaster layer, or glue on a thin XPS strip wherever you want sharp ledges or steps. Also cut the cord channels for the wooden houses *before* gluing the layers. Since the mountain sits at the back of a 16.5\" shelf, keep its peaks a few inches below the bottom of the decorative skis on the wall.",
+    "sources": [
+      {
+        "title": "Village Landscaping 101 (Hot Wire Foam Factory)",
+        "url": "https://gallery.hotwirefoamfactory.com/modeling/village-displays/vd_village101/"
+      },
+      {
+        "title": "EPS Foam or XPS Foam: which is best for diorama making (Model Railway Engineer)",
+        "url": "https://modelrailwayengineer.com/library/eps-foam-or-xps-foam-which-is-best-for-diorama-making/"
+      },
+      {
+        "title": "Pink foam, Sculptamold and plaster cloth (O Gauge Railroading forum)",
+        "url": "https://ogrforum.com/topic/pink-foam-sculptamold-and-plaster-cloth"
+      },
+      {
+        "title": "Plaster Cloth instructions (Woodland Scenics, PDF)",
+        "url": "https://scenearama.woodlandscenics.com/instructions/PLSTRCLOTHinst.pdf"
+      },
+      {
+        "title": "Sculptamold for Scenery (Farnham & District Model Railway Club, PDF)",
+        "url": "https://farnhammrc.org.uk/wp-content/uploads/2016/02/Scultamold.pdf"
+      },
+      {
+        "title": "Earth Colors Liquid Pigments instructions: Leopard Spot technique (Woodland Scenics, PDF)",
+        "url": "https://woodlandscenics.woodlandscenics.com/instructions/C1215inst.pdf"
+      },
+      {
+        "title": "Model Scenery: Rocks (Woodland Scenics, PDF)",
+        "url": "https://woodlandscenics.woodlandscenics.com/instructions/model-scenery-rocks.pdf"
+      },
+      {
+        "title": "How to build a Christmas village base: foam, stone and snow (FG Square Village)",
+        "url": "https://www.fgsquarevillage.com/pages/christmas-village-guide"
+      },
+      {
+        "title": "Hot Wire Foam Cutting EPS and XPS: safety procedure (Harvard GSD Fabrication Lab)",
+        "url": "https://fablab.gsd.harvard.edu/health-and-safety/standard-operating-procedure-sop/hot-wire-foam-cutting-eps-and-xps/"
+      },
+      {
+        "title": "How do you paint XPS foam? The one I have when sprayed melted away (r/TerrainBuilding)",
+        "url": "https://www.reddit.com/r/TerrainBuilding/comments/1seou15/how_do_you_paint_xps_foam_the_one_i_have_when/"
+      },
+      {
+        "title": "The mountain I carved from foam for my Christmas village (r/christmas)",
+        "url": "https://www.reddit.com/r/christmas/comments/e35d59/the_mountain_i_carved_from_foam_for_my_christmas/"
+      },
+      {
+        "title": "My first village, added roads, elevations and a waterfall (r/ChristmasVillages)",
+        "url": "https://www.reddit.com/r/ChristmasVillages/comments/17y6t98/my_first_village_added_roads_elevations_and_a/"
+      }
+    ]
+  },
+  {
+    "id": "cobblestone-paths",
+    "title": "Cobblestone, Steps & Paths",
+    "icon": "🧱",
+    "summary": "Draw stones into the foam with a pen, roll crumpled foil over them for texture, then paint them dark and dry-brush them light.",
+    "difficulty": "Easy",
+    "time": "1 day plus drying",
+    "sections": [
+      {
+        "heading": "Step by step",
+        "body_markdown": "1. **Outline the street or plaza** lightly in pencil or water-based marker.\n2. **Draw the stones.** For a street, press uneven cobbles in with a ballpoint pen. For walls, rule rows with staggered vertical joints and carry them around the corners. A hot-wire engraving tool does this quickly in foam, and a straightedge helps with brick or block.\n3. **Add texture** by rolling a crumpled foil ball firmly over the stone. Keep step edges and building pads flat so pieces sit level.\n4. **Cut the steps.** Mark each step and cut small bits away so every tread stays flat with a straight front. Build a lower flight as a separate piece and test-fit it first. A looped hot wire can plunge-cut a stairwell.\n5. **Paint.** Work a dark base coat into every joint, then dry-brush gray and a little white on the high points. Make sure no pink or white foam shows.\n6. **Add snow.** Dab small patches on the steps and street edges and leave most of the stone showing, so you can still follow every step."
+      }
+    ],
+    "tips": [
+      "FG Square Village: draw the street *around* the buildings and leave an open square as the focal point. (https://www.fgsquarevillage.com/pages/christmas-village-guide)",
+      "FG Square Village: if the stairs vanish under snow, use smaller patches with dark gaps between them. (https://www.fgsquarevillage.com/pages/christmas-village-guide)",
+      "Hot Wire Foam Factory: slice a ½\" slab, engrave a stone pattern, and use it as a wall or bridge. For a bridge, cut arches underneath. (https://gallery.hotwirefoamfactory.com/modeling/village-displays/vd_village101/)",
+      "Woodland Scenics: carving plaster spread over a hard shell can be carved into a cobblestone street. Mist it with water while you carve to soften it and cut down the dust. (https://woodlandscenics.woodlandscenics.com/instructions/model-scenery-rocks.pdf)"
+    ],
+    "mistakes": [
+      "Pressing texture into building pads, which makes pieces rock.",
+      "Lining stones up in a perfect grid. Real cobbles are irregular.",
+      "Painting highlights so heavily that the joints fill in."
+    ],
+    "materials": [
+      {
+        "item": "Ballpoint pen, straightedge, crumpled foil",
+        "price_note": "",
+        "source": "https://www.fgsquarevillage.com/pages/christmas-village-guide"
+      },
+      {
+        "item": "Hot-wire engraving tool (optional)",
+        "price_note": "",
+        "source": "https://gallery.hotwirefoamfactory.com/modeling/village-displays/vd_village101/"
+      },
+      {
+        "item": "Black, gray and white acrylic paint",
+        "price_note": "",
+        "source": "https://www.fgsquarevillage.com/pages/christmas-village-guide"
+      }
+    ],
+    "applies_to_omar": "Your plaza holds the carousel diorama, the clock tower and the church scene, so press cobbles only into the gaps that show, and leave a flat, unpainted pad under each piece. Pen lines tear the beads in EPS, so either skim the plaza with a thin coat of lightweight spackle and scribe the cobbles once it's half-set, or glue down a thin XPS sheet for the plaza and press into that. Give the steps up to the mountain houses flat treads.",
+    "sources": [
+      {
+        "title": "How to build a Christmas village base: foam, stone and snow (FG Square Village)",
+        "url": "https://www.fgsquarevillage.com/pages/christmas-village-guide"
+      },
+      {
+        "title": "Village Landscaping 101 (Hot Wire Foam Factory)",
+        "url": "https://gallery.hotwirefoamfactory.com/modeling/village-displays/vd_village101/"
+      },
+      {
+        "title": "Model Scenery: Rocks (Woodland Scenics, PDF)",
+        "url": "https://woodlandscenics.woodlandscenics.com/instructions/model-scenery-rocks.pdf"
+      },
+      {
+        "title": "EPS Foam or XPS Foam: which is best for diorama making (Model Railway Engineer)",
+        "url": "https://modelrailwayengineer.com/library/eps-foam-or-xps-foam-which-is-best-for-diorama-making/"
+      }
+    ]
+  },
+  {
+    "id": "structures-diy-buildings",
+    "title": "Structures, Wood Kits & DIY Buildings",
+    "icon": "🏠",
+    "summary": "Paint and brace wood kits, build narrow card or foam-board buildings for tight spots, and stop light bleeding through the walls with foil, black paint or card.",
+    "difficulty": "Easy–Medium",
+    "time": "1–3 evenings per building",
+    "sections": [
+      {
+        "heading": "Wooden kits (like the Make Market Ski Chalet)",
+        "body_markdown": "1. Lightly sand any fuzzy laser-cut edges.\n2. **Prime or paint inside *and* out.** Model Railroader primes wood kits on both sides so moisture doesn't warp the walls.\n3. **Brace the walls** with small square stripwood at the corners and along long walls. Milled siding is strong along the grain but bends across it.\n4. Paint in thin acrylic coats. Bare wood soaks up the first one.\n5. **Weather it lightly** with a thin brown or gray wash in the recesses, then a light dry-brush on the raised trim.\n6. Make the inside light-proof before you close it up (see below)."
+      },
+      {
+        "heading": "Stopping light bleed (the \"pumpkin effect\")",
+        "body_markdown": "Thin walls glow when you light them from inside. The fixes forum builders swear by:\n- **Aluminum foil** glued inside with spray adhesive, or **foil tape**. It blocks light completely *and* bounces it back out the windows. Cut around the windows with a fresh #11 or scalpel blade.\n- **Flat silver or aluminum paint, then flat black**, on the inside. Mask the windows first.\n- **Black cardstock** or black tape glued to the inside walls.\n- **Seal the corners** and the joints where the walls meet the floor and roof, using latex caulk. Light escapes through gaps, not just through walls.\n- For see-through ceramic or resin pieces, collectors switch to a frosted bulb, an LED night-light bulb, or a dimmer bulb."
+      },
+      {
+        "heading": "Narrow DIY buildings",
+        "body_markdown": "Card or foam-board \"ledge\" buildings and low-relief fronts (just the front third of a building) fit tight shelves and backgrounds. 3DCuts sells cutting files for narrow ledge-village buildings and black-cardstock lamp posts. Model Railroader cuts kits down to low-relief fronts and backs the open side with styrene so it doesn't warp."
+      }
+    ],
+    "tips": [
+      "OGR forum: \"paint can still bleed, does not fill gaps, and is not totally opaque.\" Foil is the fix that always works. (https://www.ogrforum.com/topic/woodland-scenics-buildings-led-lighting-bleeding-thru-walls)",
+      "OGR forum: paint silver first and black on top. The metallic coat blocks light and keeps the black from darkening light-colored walls. (https://www.ogrforum.com/topic/what-s-the-best-color-paint-for-plasticville-interior)",
+      "NMRA clinic (John Sethian): line inner walls with foil, add angle braces at the corners to block leaks, run latex caulk between the walls and floor, and light from behind rather than with a bare bulb in the middle of the room. (https://potomac-nmra.org/PDnewsite/Clinics/JohnSethian/21-03-21%20Sethian%20FINAL%20The%20Art%20and%20Techniques%20of%20lighting%20buildings%20and%20streets%20updated.pdf)",
+      "r/ChristmasVillages collectors tame see-through houses with frosted bulbs or LED night-light bulbs. (https://www.reddit.com/r/ChristmasVillages/comments/180phkn/what_to_do_about_translucent_houses/)",
+      "Model Railroader: prime laser-cut wood inside and out and brace it with 1/8\" stripwood to stop warping. (https://www.trains.com/mrr/how-to/expert-tips/using-forced-perspective/)"
+    ],
+    "mistakes": [
+      "Lighting a bare-wood or thin-plastic building without blocking the walls.",
+      "Painting only the outside of a wood kit, so it warps.",
+      "Leaving gaps at the roof and floor joints.",
+      "Using a bright bare bulb that shows as a hot spot in the window."
+    ],
+    "materials": [
+      {
+        "item": "Aluminum foil or foil tape",
+        "price_note": "",
+        "source": "https://www.ogrforum.com/topic/what-s-the-best-color-paint-for-plasticville-interior"
+      },
+      {
+        "item": "Flat black and silver acrylic paint",
+        "price_note": "",
+        "source": "https://www.ogrforum.com/topic/what-s-the-best-color-paint-for-plasticville-interior"
+      },
+      {
+        "item": "Black cardstock",
+        "price_note": "",
+        "source": "https://www.ogrforum.com/topic/woodland-scenics-buildings-led-lighting-bleeding-thru-walls"
+      },
+      {
+        "item": "Latex caulk",
+        "price_note": "",
+        "source": "https://potomac-nmra.org/PDnewsite/Clinics/JohnSethian/21-03-21%20Sethian%20FINAL%20The%20Art%20and%20Techniques%20of%20lighting%20buildings%20and%20streets%20updated.pdf"
+      },
+      {
+        "item": "Stripwood for bracing",
+        "price_note": "",
+        "source": "https://www.trains.com/mrr/how-to/expert-tips/using-forced-perspective/"
+      }
+    ],
+    "applies_to_omar": "The Make Market wooden Ski Chalet and the big wooden houses are thin wood, which is exactly where light bleeds through. Before final assembly, line the inside with foil tape (cutting around the windows), caulk the corners, and paint inside and out with acrylic so the walls don't warp under warm LEDs. The houses climb the mountain at the back, so their back walls barely show. Put the light toward the back and run the cord down into the foam channel.",
+    "sources": [
+      {
+        "title": "What's the best color paint for Plasticville interior? (O Gauge Railroading forum)",
+        "url": "https://www.ogrforum.com/topic/what-s-the-best-color-paint-for-plasticville-interior"
+      },
+      {
+        "title": "Woodland Scenics buildings: LED lighting bleeding thru walls (O Gauge Railroading forum)",
+        "url": "https://www.ogrforum.com/topic/woodland-scenics-buildings-led-lighting-bleeding-thru-walls"
+      },
+      {
+        "title": "The Art and Technique of Lighting Buildings and Streets, John Sethian clinic (NMRA Potomac Division, PDF)",
+        "url": "https://potomac-nmra.org/PDnewsite/Clinics/JohnSethian/21-03-21%20Sethian%20FINAL%20The%20Art%20and%20Techniques%20of%20lighting%20buildings%20and%20streets%20updated.pdf"
+      },
+      {
+        "title": "What to do about translucent houses? (r/ChristmasVillages)",
+        "url": "https://www.reddit.com/r/ChristmasVillages/comments/180phkn/what_to_do_about_translucent_houses/"
+      },
+      {
+        "title": "Using forced perspective, Model Railroader (Trains.com)",
+        "url": "https://www.trains.com/mrr/how-to/expert-tips/using-forced-perspective/"
+      },
+      {
+        "title": "Ledge Village Lamp Post tutorial (3DCuts.com)",
+        "url": "https://3dcuts.com/ledge-village-lamp-post-tutorial"
+      }
+    ]
+  },
+  {
+    "id": "lights-light-posts",
+    "title": "Light Posts & Building Lights",
+    "icon": "💡",
+    "summary": "Use Lemax's 4.5V adapter system for Lemax pieces, warm-white LEDs for everything you add, and battery fairy lights where no cord can reach.",
+    "difficulty": "Easy (adapters) to Medium (custom LEDs)",
+    "time": "1–2 evenings",
+    "sections": [
+      {
+        "heading": "Powering Lemax pieces",
+        "body_markdown": "- Lemax uses **4.5V** power. Pieces made after 2008 need a 4.5V adapter, and Lemax recommends its own adapters to avoid damaging them.\n- The **3-output 4.5V 1000mA adapter** (SKU 94563 white or 94566 black, US plug) runs up to three items, *as long as their combined draw stays under 1000mA*. If it's overloaded, one or more outputs can stop working.\n- **L-shape vs U-shape plugs.** The L-shape is the classic 4.5V 550mA plug for animated and musical pieces. The U-shape is 4.5V 100mA, for houses with LED lights only.\n- **Expanding it:** one 3-output adapter plus three U-shape expansion cables (44340 or 44341) can light up to nine LED houses. Canadian Villages used Four LED Light String Moonlanders to light up to 12 buildings from one wall outlet.\n- Older pieces made before 2006 may need **3V**, and old incandescent bulbs don't plug into the newer adapter."
+      },
+      {
+        "heading": "DIY light posts",
+        "body_markdown": "1. Make the post from a dowel painted black, a straw, or 3DCuts' cardstock lamp-post cutting file.\n2. Thread one bulb of a warm-white LED micro \"fairy\" string up through the hollow center.\n3. Push the post into the foam and run the wire under the base.\n4. Use battery-powered strings on hilltops and anywhere a cord can't reach."
+      },
+      {
+        "heading": "Color and placement",
+        "body_markdown": "Stick to **warm white (about 2700–3000K)** for any lights you add. Cool white and flashing multicolor lights look like a carnival. Let the building windows be the main light, hide the strings behind buildings, and dim the room lights."
+      },
+      {
+        "heading": "Custom LEDs (advanced)",
+        "body_markdown": "If you wire bare LEDs to a 5V USB supply, each LED needs a resistor in series, sized for its forward voltage and current, and polarity matters (the long leg is positive). If that's outside your comfort zone, use ready-made warm-white micro strings powered by USB or batteries instead."
+      }
+    ],
+    "tips": [
+      "Lemax: the 3-output adapter's 1000mA is shared across all three plugs, so add up each piece's mA before you plug them in. (https://support.lemaxcollection.com/support/solutions/articles/36000198602-power-adapter-faq-s)",
+      "Canadian Villages: moving accessories like a trolley still need batteries, since you don't want a cord trailing behind them. They also ran a white cord where it wouldn't cut across the scene. (https://canadianvillages.com/blogs/news/powering-up-your-lemax-village)",
+      "Sissy in Seattle, a Lemax retailer, warns against switching *animated* Lemax pieces on and off with a power strip or smart plug, because some collectors have burned out circuit boards that way. Use each piece's own switch instead. Canadian Villages runs everything from one power-bar switch, though, so community advice is split. (https://www.sissyinseattle.com/post/lemax-adapters-lighting-systems)",
+      "Keep the lighting warm white, and limit accent spotlights to one or two. (https://thechristmasvillages.com/christmas-village-display/)",
+      "ImpactDriverDrill: battery fairy lights solve hilltops where no cord can reach, and LEDs run cooler near foam and fabric. (https://impactdriverdrill.com/diy-christmas-village-display-platform/)"
+    ],
+    "mistakes": [
+      "Overloading a 3-output adapter past 1000mA total.",
+      "Running Lemax pieces on a random 4.5V adapter with unknown polarity or current.",
+      "Mixing cool-white and warm-white LEDs.",
+      "Letting bare light strings show across the front of the scene."
+    ],
+    "materials": [
+      {
+        "item": "Lemax 4.5V 3-Output Adapter (94563 white / 94566 black)",
+        "price_note": "",
+        "source": "https://www.lemaxcollection.com/categories/adaptors-lighting"
+      },
+      {
+        "item": "Lemax Type-L to Type-U expansion cable x3 (44340/44341)",
+        "price_note": "",
+        "source": "https://www.sissyinseattle.com/post/lemax-adapters-lighting-systems"
+      },
+      {
+        "item": "Lemax LED Moonlander light strings (74277, 44342)",
+        "price_note": "",
+        "source": "https://www.lemaxcollection.com/categories/adaptors-lighting"
+      },
+      {
+        "item": "Warm-white LED micro or fairy strings (battery or USB)",
+        "price_note": "",
+        "source": "https://3dcuts.com/ledge-village-lamp-post-tutorial"
+      }
+    ],
+    "applies_to_omar": "Your plaza has three powered Lemax or Make Market motion pieces: the carousel diorama, the clock tower, and the church and pond scene. Check each label for its mA rating and adapter type before putting them on one 3-output adapter. Animated pieces usually take the L-shape 550mA plug, so a single 1000mA adapter may only run one or two of them. Mount the adapters and the power strip in the 4.5\" gap at the back. For the wooden mountain houses, warm-white micro LED strings (one bulb per house, cords running down through the foam) keep the color consistent. Use battery strings on the highest houses if running a cord up there is a pain.",
+    "sources": [
+      {
+        "title": "Power Adapter FAQs (Lemax Help Center)",
+        "url": "https://support.lemaxcollection.com/support/solutions/articles/36000198602-power-adapter-faq-s"
+      },
+      {
+        "title": "Adapters & Lighting catalog (Lemax Collection)",
+        "url": "https://www.lemaxcollection.com/categories/adaptors-lighting"
+      },
+      {
+        "title": "Powering up your Lemax Village (Canadian Villages)",
+        "url": "https://canadianvillages.com/blogs/news/powering-up-your-lemax-village"
+      },
+      {
+        "title": "Lemax Adapters & Lighting Systems (Sissy in Seattle)",
+        "url": "https://www.sissyinseattle.com/post/lemax-adapters-lighting-systems"
+      },
+      {
+        "title": "Christmas Village Display Tips: Elegant vs Tacky (TheChristmasVillages.com)",
+        "url": "https://thechristmasvillages.com/christmas-village-display/"
+      },
+      {
+        "title": "How to Build a DIY Christmas Village Display Platform (ImpactDriverDrill)",
+        "url": "https://impactdriverdrill.com/diy-christmas-village-display-platform/"
+      },
+      {
+        "title": "Ledge Village Lamp Post tutorial (3DCuts.com)",
+        "url": "https://3dcuts.com/ledge-village-lamp-post-tutorial"
+      }
+    ]
+  },
+  {
+    "id": "fake-snow",
+    "title": "Fake Snow",
+    "icon": "❄️",
+    "summary": "Put permanent paste snow on the foam, dust fine powder over the top, and use less snow than you think you need.",
+    "difficulty": "Easy",
+    "time": "1 afternoon plus overnight drying",
+    "sections": [
+      {
+        "heading": "The main types",
+        "body_markdown": "| Type | Good for | Watch out for |\n|---|---|---|\n| Snow blanket or batting | Quick bases, hiding risers and cords, no mess | Can look like cotton and feel dated |\n| Fine powder (Buffalo Snow Extra Fine, Woodland Scenics Soft Flake, Dept 56 snow) | A realistic fresh-snowfall look | Loose and messy, especially with pets |\n| Epsom salt | Cheap, sparkly, easy cleanup, turns whiter over time | Harmful to pets if eaten in quantity; keep away from kids |\n| Baking soda | Cheap powder | Absorbs moisture, so it works better mixed into a paste |\n| **Paste snow** (Mod Podge or PVA + white acrylic + baking soda) | Permanent snow on foam, drifts, roofs, ledges | Must dry fully; test the mix on scrap first |"
+      },
+      {
+        "heading": "Paste snow recipe",
+        "body_markdown": "1. Stir white acrylic paint into Mod Podge or PVA glue. The paint keeps the glue from drying clear.\n2. Add baking soda a little at a time. A common starting ratio is **1 part glue, 1 part paint, 3 parts baking soda**. Stop when it's a thick, slightly grainy \"soft frosting\" that holds an edge.\n3. Stir slowly so it doesn't foam, and test it on scrap. If it runs, add more baking soda.\n4. Dab and press it on rather than smoothing it flat. Snow piles deeper against walls and on the downwind side of objects, and thinner on slopes and exposed edges.\n5. Pull a little over the edges of ledges for an overhang, and keep building pads flat.\n6. While it's wet, sprinkle fine snow on top for a fluffy look. Let it dry overnight or longer."
+      },
+      {
+        "heading": "Roofs, trees and finishing",
+        "body_markdown": "- **Roofs:** a thin layer of paste with a soft edge that looks thick.\n- **Trees:** dust snow on the *upper* side of the branches only.\n- **Sparkle:** Woodland Scenics suggests mixing a *tiny* amount of fine iridescent glitter into the snow and applying it over a sprayed-on glue base. A little goes a long way.\n- **Drifts:** Woodland Scenics mixes equal parts white acrylic and Soft Flake Snow, or sprinkles Soft Flake onto wet Flex Paste."
+      }
+    ],
+    "tips": [
+      "An r/ChristmasVillages collector used Dept 56 snow for 27 years, then switched to Buffalo Snow Extra Fine because it looks far more realistic. Another warns that loose powder is a mess if you have cats. (https://www.reddit.com/r/ChristmasVillages/comments/qygwqp/ideas_for_snow/)",
+      "Epsom salt starts out see-through and turns bright white as it sits. It costs under $1 a pound, but keep it away from pets and small kids. (https://www.holidaymagichub.com/fake-snow/)",
+      "Less is more. A light dusting with some bare ground looks refined, while thick batting everywhere looks cheap. (https://thechristmasvillages.com/christmas-village-display/)",
+      "Scale Model HQ: add snow *last*, and keep baking-soda scenes away from damp spots, because baking soda soaks up moisture. (https://scalemodelhq.blog/benchwork-scenery-and-dioramas/how-to-make-snow-diorama/)",
+      "Woodland Scenics: 1 lb of Soft Flake Snow covers about 5.8 sq ft at roughly 1/16\" deep. (https://woodlandscenics.woodlandscenics.com/show/item/SN140)"
+    ],
+    "mistakes": [
+      "Covering everything evenly. Real snow drifts, and some ground stays bare.",
+      "Using flour or salt in long-term displays, since they attract moisture and pests.",
+      "Leaving loose powder where toddlers can reach it.",
+      "Burying steps and paths until they disappear."
+    ],
+    "materials": [
+      {
+        "item": "Mod Podge or PVA, white acrylic and baking soda (paste snow)",
+        "price_note": "",
+        "source": "https://www.fgsquarevillage.com/pages/christmas-village-guide"
+      },
+      {
+        "item": "Woodland Scenics Soft Flake Snow",
+        "price_note": "$14.99 list price (Woodland Scenics site)",
+        "source": "https://woodlandscenics.woodlandscenics.com/show/item/SN140"
+      },
+      {
+        "item": "Buffalo Snow Extra Fine",
+        "price_note": "",
+        "source": "https://www.reddit.com/r/ChristmasVillages/comments/qygwqp/ideas_for_snow/"
+      },
+      {
+        "item": "Epsom salt",
+        "price_note": "Under $1 per pound (Holiday Magic Hub)",
+        "source": "https://www.holidaymagichub.com/fake-snow/"
+      },
+      {
+        "item": "Snow blanket",
+        "price_note": "Sold at dollar stores, per r/ChristmasVillages",
+        "source": "https://www.reddit.com/r/ChristmasVillages/comments/qygwqp/ideas_for_snow/"
+      }
+    ],
+    "applies_to_omar": "With kids aged 3 and 5, make the snow on the foam *permanent*: brush Mod Podge paste snow onto the mountain, ledges and plaza edges, and press a light sprinkle of fine snow into it while it's wet. Skip loose Epsom salt and baking soda along the low front edge. Keep snow off the center of the plaza cobbles and off the stair treads so the paths still show. The ski slope is the one place to lay it on thick and smooth.",
+    "sources": [
+      {
+        "title": "The Full Fake Snow Guide (Eryn Whalen)",
+        "url": "https://www.erynwhalenonline.com/fake-snow/"
+      },
+      {
+        "title": "Ideas for snow (r/ChristmasVillages)",
+        "url": "https://www.reddit.com/r/ChristmasVillages/comments/qygwqp/ideas_for_snow/"
+      },
+      {
+        "title": "I Accidentally Discovered the Best (and Cheapest) Fake Snow (Holiday Magic Hub)",
+        "url": "https://www.holidaymagichub.com/fake-snow/"
+      },
+      {
+        "title": "How to Make a Snow Diorama (Scale Model HQ)",
+        "url": "https://scalemodelhq.blog/benchwork-scenery-and-dioramas/how-to-make-snow-diorama/"
+      },
+      {
+        "title": "Soft Flake Snow product page and FAQ (Woodland Scenics)",
+        "url": "https://woodlandscenics.woodlandscenics.com/show/item/SN140"
+      },
+      {
+        "title": "How to build a Christmas village base: foam, stone and snow (FG Square Village)",
+        "url": "https://www.fgsquarevillage.com/pages/christmas-village-guide"
+      },
+      {
+        "title": "Christmas Village Display Tips: Elegant vs Tacky (TheChristmasVillages.com)",
+        "url": "https://thechristmasvillages.com/christmas-village-display/"
+      },
+      {
+        "title": "Guide to Artificial Snow (Christmas Navigator)",
+        "url": "https://christmasnavigator.com/christmas-in-july-ideas/artificial-snow/"
+      }
+    ]
+  },
+  {
+    "id": "frozen-ponds-water",
+    "title": "Frozen Ponds & Magnetic Skaters",
+    "icon": "⛸️",
+    "summary": "For a still pond, pour Realistic Water and frost it with snow. For moving magnetic skaters, use a hard, slick sheet such as mirror acrylic over a slow motor that carries magnets.",
+    "difficulty": "Medium (still pond) / Hard (magnetic skaters)",
+    "time": "Still pond: 2–3 days including curing. Magnetic: 1–2 weekends",
+    "sections": [
+      {
+        "heading": "Still frozen pond (Woodland Scenics method)",
+        "body_markdown": "1. Seal the pond bed. Woodland Scenics says foam *must* be covered with a few layers of plaster cloth, with every hole filled. Unsealed foam can give off gas and leave bubbles.\n2. Color it darker in the middle and lighter at the edges. Use only Earth Colors, Water Undercoat or **100% acrylic** paint, because many craft paints contain vinyl fillers that react badly with it.\n3. Pour Realistic Water no more than **1/8\" per layer**, and let each layer cure completely (24 hours or more). Never use heat to speed it up.\n4. **While it's still wet, lightly sprinkle on Soft Flake Snow** for a glazed, frosted ice look.\n5. Use Water Effects for icicles. Hide the edge with snow, rocks or a little fence."
+      },
+      {
+        "heading": "Magnetic skating pond (DIY)",
+        "body_markdown": "How store-bought ponds work: a slow motor turns gears or arms under a white plastic \"ice\" sheet. The arms carry **magnets topped with felt**, and each skater has a magnet in its base, so the skaters follow the arms around.\n1. **Choose the surface.** It should be thin, hard and slick, like acrylic or mirror acrylic. The thinner it is, the stronger the pull.\n2. **Choose the drive.** Use a slow gear motor. One DIY 3D-printed pond uses a 6V DC, 45 RPM micro gearmotor, and replacement kits for the Dept 56 pond use a 4.5 RPM synchronous motor. Slower looks more graceful.\n3. **Test the magnets** for attraction *before* gluing. A library craft found that 0.75\" button magnets held through cardboard while smaller ones lost their grip. Felt on the moving magnets cuts friction. One design lets the magnet underneath float in a small pocket so it lines itself up.\n4. **Add speed control.** The 3D-printed Christmas Skaters build uses a motor controller to set the skaters' speed.\n5. **Maintain it.** Keep the surface clean with soap and water so skaters glide, and re-glue loose magnets, which add drag and strain the motor."
+      }
+    ],
+    "tips": [
+      "Woodland Scenics FAQ: Realistic Water stays slightly soft on purpose, so *anything you set on it leaves a mark and can stick*. Don't use it as the surface for moving skaters. (https://woodlandscenics.woodlandscenics.com/show/Item/C1211)",
+      "Woodland Scenics FAQ: one 16 oz bottle covers about a 17\" circle at 1/8\" deep. (https://woodlandscenics.woodlandscenics.com/show/Item/C1211)",
+      "Yes! You Can! blog: when a pond's skaters stopped moving, the causes were loose magnets (which added load) and a worn motor. When testing on the bench, start at a lower voltage than the rating. (https://yesyoucanarchie.blogspot.com/2011/12/fixing-christmas-decors.html)",
+      "Happy Holidays Parts' motor kit for the Dept 56 pond is a 120V AC, 4.5 RPM synchronous motor that turns the opposite way from the original. That's household voltage, so treat it as an appliance repair. (https://www.happyholidaysparts.com/product-page/department-56-village-animated-skating-pond-replacement-motor-parts)",
+      "Princeton library craft: larger button magnets (0.75\") stayed connected where smaller ones failed. (https://popgoesthepage.princeton.edu/ice-capades/)"
+    ],
+    "mistakes": [
+      "Pouring resin or Realistic Water over unsealed foam, which causes bubbles.",
+      "Using craft paint with vinyl fillers under Realistic Water.",
+      "Pouring thick layers, or forcing the cure with heat.",
+      "Running magnetic skaters on a soft or tacky surface.",
+      "Leaving neodymium magnets where small children can reach them."
+    ],
+    "materials": [
+      {
+        "item": "Woodland Scenics Realistic Water (16 oz)",
+        "price_note": "$26.99 list price (Woodland Scenics site)",
+        "source": "https://woodlandscenics.woodlandscenics.com/show/Item/C1211"
+      },
+      {
+        "item": "Woodland Scenics Soft Flake Snow",
+        "price_note": "$14.99 list price",
+        "source": "https://woodlandscenics.woodlandscenics.com/show/item/SN140"
+      },
+      {
+        "item": "Replacement skating-pond motor kit (4.5 RPM, 120V AC)",
+        "price_note": "$39.99 (Happy Holidays Parts)",
+        "source": "https://www.happyholidaysparts.com/product-page/department-56-village-animated-skating-pond-replacement-motor-parts"
+      },
+      {
+        "item": "6V DC 45 RPM micro gearmotor and 3 mm neodymium magnets (DIY design)",
+        "price_note": "",
+        "source": "https://www.myminifactory.com/object/3d-print-duck-pond-31234"
+      },
+      {
+        "item": "Thin mirror acrylic sheet, felt, button magnets",
+        "price_note": "",
+        "source": "https://yesyoucanarchie.blogspot.com/2011/12/fixing-christmas-decors.html"
+      }
+    ],
+    "applies_to_omar": "Mirror acrylic is the right choice for magnetic skaters. Don't pour Realistic Water over it, or the skaters will stick. Frost only the *edges* with paste snow and keep the skating loop clear. Build the motor and magnet arm into a removable box under the foam so the shelf can come apart and the motor can be serviced, and use a low-voltage DC gearmotor rather than a 120V motor buried in foam. **Kid safety:** glue every magnet into a sealed pocket in the skater bases and under the arm. The CPSC warns that small magnets, if swallowed, can attract each other through the intestines and cause severe injury. With a 3-year-old and a 5-year-old in the house, also consider setting the pond back from the front edge.",
+    "sources": [
+      {
+        "title": "Realistic Water product page and FAQ (Woodland Scenics)",
+        "url": "https://woodlandscenics.woodlandscenics.com/show/Item/C1211"
+      },
+      {
+        "title": "Model Scenery: Water (Woodland Scenics, PDF)",
+        "url": "https://woodlandscenics.woodlandscenics.com/instructions/model-scenery-water.pdf"
+      },
+      {
+        "title": "Soft Flake Snow product page and FAQ (Woodland Scenics)",
+        "url": "https://woodlandscenics.woodlandscenics.com/show/item/SN140"
+      },
+      {
+        "title": "Fixing Christmas decors: repairing a magnetic skating pond (Yes! You Can! blog)",
+        "url": "https://yesyoucanarchie.blogspot.com/2011/12/fixing-christmas-decors.html"
+      },
+      {
+        "title": "Ice Capades: magnetic skaters craft (Princeton Public Library, Pop Goes the Page)",
+        "url": "https://popgoesthepage.princeton.edu/ice-capades/"
+      },
+      {
+        "title": "Duck Pond: magnet-driven pond mechanism by Greg Zumwalt (MyMiniFactory)",
+        "url": "https://www.myminifactory.com/object/3d-print-duck-pond-31234"
+      },
+      {
+        "title": "Christmas Skaters Display: DIY magnetic skate pond (MyMiniFactory)",
+        "url": "https://www.myminifactory.com/object/3d-print-christmas-skaters-display-339994"
+      },
+      {
+        "title": "Dept 56 Village Skating Pond replacement motor kit (Happy Holidays Parts)",
+        "url": "https://www.happyholidaysparts.com/product-page/department-56-village-animated-skating-pond-replacement-motor-parts"
+      },
+      {
+        "title": "Skating rink: making a mirror look like ice (r/ChristmasVillages)",
+        "url": "https://www.reddit.com/r/ChristmasVillages/comments/1p4r5xa/skating_rink/"
+      },
+      {
+        "title": "Magnets safety education center (U.S. CPSC)",
+        "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets"
+      }
+    ]
+  },
+  {
+    "id": "trains",
+    "title": "Adding Trains",
+    "icon": "🚂",
+    "summary": "O, O27 and On30 trains match village buildings best, and HO looks too small. Curve radius and grade limits decide what fits on a shelf.",
+    "difficulty": "Medium",
+    "time": "1 weekend (boxed set) to many (custom)",
+    "sections": [
+      {
+        "heading": "Choosing a scale",
+        "body_markdown": "- **On30** (1:48 trains on HO-width track, mostly made by Bachmann). Big Christmas Trains calls it the first choice for display villages, and it fits in a slightly smaller space (about a 38\" loop).\n- **O and O27** (Lionel and similar, three-rail). Sturdy, and a bit toy-like. Lionel's Polar Express can run on a 40\" circle.\n- Village buildings are roughly 1:64 to 1:48, so On30, O and even S (1:64) all look right. **HO is too small** next to village buildings and figures.\n- Dept 56 once sold an On30 village train."
+      },
+      {
+        "heading": "Fitting track into the space",
+        "body_markdown": "- **Radius.** Bachmann recommends an 18\" minimum radius for most On30 equipment (22\" for some locomotives). An 18\" loop needs a table about 38\" deep, and a 30\" loop needs about 64\".\n- **Grades.** NMRA's module guidelines cap mainline grades at 2% for O and S scale (3% for HO). That's only about 1.5\" of rise over 6 feet, so trains can't climb a village mountain.\n- **Point-to-point** shuttles fit on shelves. Bachmann's Norman Rockwell Main Street On30 set runs on batteries (4 AA), uses auto-reversing E-Z Track with bumpers, and is sold for \"a table, shelf, or mantelpiece.\"\n- **Tunnels** are easy to carve through foam, but leave a hand-sized opening or a lift-off section so you can reach in and fix derailments.\n- **Well-laid track matters more than radius.** Avoid kinks, sudden changes in height, and twists."
+      },
+      {
+        "heading": "Noise",
+        "body_markdown": "Cheap battery trains are often loud and have no speed control. One r/modeltrains poster found two budget battery trains both had \"incredibly loud track noise,\" even on foam mats. If quiet matters, use a DC train with a speed controller and run it slowly."
+      }
+    ],
+    "tips": [
+      "Big Christmas Trains: On30 is the author's first choice for collectible villages, followed by O and O27. (https://bigchristmastrains.com/primer/combining_trains_n_towns/combining_trains_n_towns.htm)",
+      "Dave Farquhar: village buildings are about 1:64 to 1:48 and pair well with traditional Lionel and American Flyer trains. The figures are closer to 1:24. (https://dfarq.homeip.net/tips-for-using-dept-56-and-lemax-type-buildings-with-lionel-trains/)",
+      "Bachmann forum: carefully laid track matters as much as radius, and you can ease a tight curve into a straight with partial sections of a larger radius. (https://www.bachmanntrains.com/home-usa/board/index.php/topic,12428.0.html)",
+      "Bachmann forum: a layout that runs around the walls of a room can use much larger corner curves on shelves only 16\" wide. (https://www.bachmanntrains.com/home-usa/board/index.php/topic,12428.0.html)",
+      "NMRA MRP-1.0: for O-scale modules, the maximum mainline grade is 2% and the minimum radius is 36\". (https://www.nmra.org/sites/default/files/standards/sandrp/Module/RP/mrp-1.0.pdf)"
+    ],
+    "mistakes": [
+      "Buying HO for a Lemax village, where it looks undersized.",
+      "Planning a loop that's deeper than the shelf.",
+      "Running steep grades up the mountain.",
+      "Building tunnels with no way to reach a derailment.",
+      "Laying track on fluffy snow or uneven foam."
+    ],
+    "materials": [
+      {
+        "item": "Bachmann On30 Norman Rockwell Main Street Christmas set (point-to-point, battery)",
+        "price_note": "",
+        "source": "https://www.gallimods.com/shop/c/p/Norman-Rockwells-Main-Street-Christmas-Trolly-Train-Christmas-Train-Set-x31426519.htm"
+      },
+      {
+        "item": "Dollar Tree village figures (about 1.5\" tall, close to 1:48)",
+        "price_note": "Packs of 3–5 figures for $1 (2014 article)",
+        "source": "https://dfarq.homeip.net/tips-for-using-dept-56-and-lemax-type-buildings-with-lionel-trains/"
+      }
+    ],
+    "applies_to_omar": "At 16.5\" deep, your shelf can't fit even the tightest On30 loop, which needs about 38\". You have two realistic options. (a) A **point-to-point shuttle** along the front edge of the plaza or between the plaza and the foot of the mountain, such as the battery-powered Rockwell streetcar set (check its footprint first, since it includes curved track). It could run through a short tunnel cut into the base of the mountain, with a lift-out access panel. (b) A train on a separate, deeper surface. Don't plan for the train to climb the mountain: a 2% grade gives less than 1.5\" of rise across the whole shelf. If noise bothers you, choose a DC set with a speed knob over a cheap battery train.",
+    "sources": [
+      {
+        "title": "Combining Trains & Towns (Big Christmas Trains, Paul D. Race)",
+        "url": "https://bigchristmastrains.com/primer/combining_trains_n_towns/combining_trains_n_towns.htm"
+      },
+      {
+        "title": "Tips for using Dept. 56 and Lemax-type buildings with Lionel trains (Dave Farquhar)",
+        "url": "https://dfarq.homeip.net/tips-for-using-dept-56-and-lemax-type-buildings-with-lionel-trains/"
+      },
+      {
+        "title": "Best radius for On30 (Bachmann Trains forum)",
+        "url": "https://www.bachmanntrains.com/home-usa/board/index.php/topic,12428.0.html"
+      },
+      {
+        "title": "Module Recommended Practice MRP-1.0: grades and radii by scale (NMRA, PDF)",
+        "url": "https://www.nmra.org/sites/default/files/standards/sandrp/Module/RP/mrp-1.0.pdf"
+      },
+      {
+        "title": "Bachmann On30 Norman Rockwell's Main Street Christmas set (Galli's Mods listing)",
+        "url": "https://www.gallimods.com/shop/c/p/Norman-Rockwells-Main-Street-Christmas-Trolly-Train-Christmas-Train-Set-x31426519.htm"
+      },
+      {
+        "title": "How can I get a slow, quiet train to run around the Christmas tree? (r/modeltrains)",
+        "url": "https://www.reddit.com/r/modeltrains/comments/r6y53o/new_to_model_trains_i_can_only_run_one_at/"
+      }
+    ]
+  },
+  {
+    "id": "motion-animation",
+    "title": "Motion: Ski Lifts, Skiers & Turntables",
+    "icon": "🚡",
+    "summary": "Buy pieces with the animation built in when you can. If you build your own, keep it slow, light, low-voltage and removable.",
+    "difficulty": "Hard",
+    "time": "2–4 weekends",
+    "sections": [
+      {
+        "heading": "Buy it with the motion built in",
+        "body_markdown": "Lemax's Vail Village line is its official ski-town collection, with animated skating and ski-resort pieces. Dept 56's retired Animated Ski Slope sends skiers on magnetic bases down a slope, and it turns up secondhand. Hooked on Villages listed a working one for $129.99."
+      },
+      {
+        "heading": "DIY ski lift (cable loop)",
+        "body_markdown": "Lessons from a builder who made a working toy gondola:\n1. **Two towers, two grooved wheels, one continuous loop of line.** Mount them solidly first.\n2. **The drive** is the hardest part. His final version used friction: a wheel on the motor pressed against the big end wheel, with a turnbuckle to adjust the contact. Friction drives can slip, and when he added more power to stop the slipping, the lift ran too fast.\n3. **Chairs.** If they're too heavy, the line slips off the wheels. If they're too floppy, they catch and jam. Bend light wire so each chair meets the wheel's lip at a right angle, keep the weight centered below the line, and make the chairs removable for storage.\n4. Hide the motor inside a \"lodge\" building.\n\nIf you have access to a 3D printer, Printables has free models of working ski lifts with electric motors."
+      },
+      {
+        "heading": "DIY magnetic skiers and turntables",
+        "body_markdown": "Magnetic skiers work like the skating pond: a magnet on a moving arm or belt under the slope drags a figure with a magnet in its base. A slow gearmotor (anywhere from a few RPM to a few tens of RPM) turning a disc makes a simple turntable for a rotating tree or scene."
+      }
+    ],
+    "tips": [
+      "Jason Jerome's gondola: heavy chairs made the line slip off the wheels. Wire chairs with their weight centered below the line solved it. (https://www.jjerome.com/ski-lift/)",
+      "Canadian Villages: anything that moves through the scene should run on batteries so no cord trails behind it. (https://canadianvillages.com/blogs/news/powering-up-your-lemax-village)",
+      "Sissy in Seattle cautions against cutting power to animated Lemax pieces with a power strip or smart-plug switch, because it can damage their circuit boards. (https://www.sissyinseattle.com/post/lemax-adapters-lighting-systems)",
+      "The skating-pond motor kit runs at 4.5 RPM. Slow is the look you want for village motion. (https://www.happyholidaysparts.com/product-page/department-56-village-animated-skating-pond-replacement-motor-parts)"
+    ],
+    "mistakes": [
+      "Running motion too fast.",
+      "Making chairs or figures too heavy for the line or the magnets.",
+      "Burying household-voltage motors in foam.",
+      "Gluing mechanisms in permanently, so they can't be repaired or stored."
+    ],
+    "materials": [
+      {
+        "item": "Dept 56 Animated Ski Slope (retired, buy secondhand)",
+        "price_note": "$129.99 at Hooked on Villages (one listing)",
+        "source": "https://hookedonvillages.com/products/dept-56-village-accessories-village-animated-ski-slope-accessory-see-note"
+      },
+      {
+        "item": "Lemax Vail Village animated pieces",
+        "price_note": "",
+        "source": "https://www.lemaxcollection.com/villages/vail-village/"
+      },
+      {
+        "item": "Small gearmotor, pulleys and braided line (DIY lift)",
+        "price_note": "",
+        "source": "https://www.jjerome.com/ski-lift/"
+      }
+    ],
+    "applies_to_omar": "A working lift would suit your layout running diagonally from the plaza (bottom station) up to a top station tucked among the mountain houses, with the motor hidden inside the bottom building. Keep the span short (well under the shelf's 73.5\" width), the chairs feather-light, and the whole lift on a foam block that lifts out for storage. If you'd rather not build a lift, a magnetic skier run on the smooth snow slope reuses the same motor-and-magnet approach as your pond.",
+    "sources": [
+      {
+        "title": "Ski Lift for Toys: building a working gondola (Jason Jerome)",
+        "url": "https://www.jjerome.com/ski-lift/"
+      },
+      {
+        "title": "Working Model Ski Lift with Electric Motor (Printables)",
+        "url": "https://www.printables.com/model/95991-working-model-ski-lift-with-electric-motor"
+      },
+      {
+        "title": "Dept 56 Village Animated Ski Slope (Hooked on Villages)",
+        "url": "https://hookedonvillages.com/products/dept-56-village-accessories-village-animated-ski-slope-accessory-see-note"
+      },
+      {
+        "title": "Vail Village collection (Lemax)",
+        "url": "https://www.lemaxcollection.com/villages/vail-village/"
+      },
+      {
+        "title": "Powering up your Lemax Village (Canadian Villages)",
+        "url": "https://canadianvillages.com/blogs/news/powering-up-your-lemax-village"
+      },
+      {
+        "title": "Lemax Adapters & Lighting Systems (Sissy in Seattle)",
+        "url": "https://www.sissyinseattle.com/post/lemax-adapters-lighting-systems"
+      },
+      {
+        "title": "Dept 56 Village Skating Pond replacement motor kit (Happy Holidays Parts)",
+        "url": "https://www.happyholidaysparts.com/product-page/department-56-village-animated-skating-pond-replacement-motor-parts"
+      },
+      {
+        "title": "Duck Pond: magnet-driven pond mechanism by Greg Zumwalt (MyMiniFactory)",
+        "url": "https://www.myminifactory.com/object/3d-print-duck-pond-31234"
+      }
+    ]
+  },
+  {
+    "id": "trees-figures-storytelling",
+    "title": "Trees, Figures & Storytelling",
+    "icon": "🌲",
+    "summary": "Group figures into small scenes that each tell a story, use trees to frame the village and add depth, and make it personal.",
+    "difficulty": "Easy",
+    "time": "1 evening",
+    "sections": [
+      {
+        "heading": "Small scenes (vignettes)",
+        "body_markdown": "- Give every figure something to do: shopping, caroling, building a snowman, walking a dog. If you can't say what a figure is doing, leave it out.\n- **Group figures in odd numbers** (3, 5 or 7). It looks more natural than even rows.\n- Build small *scenes*, such as children with a snowman beside a house, instead of scattering single figures around.\n- Add family in-jokes, like a figure who's always running late or a character who moves to a new spot each year. Let the kids pick a scene."
+      },
+      {
+        "heading": "Trees",
+        "body_markdown": "- Use trees to *frame* the edges, add depth behind buildings, and form small groves. Don't let them hide the village.\n- **Forced perspective:** tall trees in front, smaller trees up the hill and toward the back.\n- **Bleach sisal bottle-brush trees** white for a snowy look: soak them in bleach and water until they turn white, then rinse. Only sisal bleaches, not plastic, and a fresh bleach mix works better than a used one. Comb the bristles while they're wet, and swap the plastic bases for drilled wood blocks.\n- Dust snow on the upper sides of branches only."
+      }
+    ],
+    "tips": [
+      "TheChristmasVillages.com's 3-5-7 rule: group accessories in odd numbers and give every figure a purpose. (https://thechristmasvillages.com/christmas-village-display/)",
+      "Lemax Village Journal: build scenes from things your family actually does, and let the kids pick figurines and decide what they're up to. (https://www.lemaxcollection.com/village-journal/how-to-make-your-christmas-village-feel-more-personal/)",
+      "Semigloss Design: only sisal bottle-brush trees bleach, and a fresh bleach solution works better than a used batch. (https://www.semiglossdesign.com/how-to-make-diy-bottle-brush-trees)",
+      "Model Railroader: 5–7.5\" trees in front block the direct view, and 3\" trees next to the background buildings sell the distance. (https://www.trains.com/mrr/how-to/expert-tips/using-forced-perspective/)",
+      "Dollar Tree village figures are about 1.5\" tall (about 6 ft at 1:48), a closer match than many brand-name figures. Stock runs low before Thanksgiving. (https://dfarq.homeip.net/tips-for-using-dept-56-and-lemax-type-buildings-with-lionel-trains/)"
+    ],
+    "mistakes": [
+      "Sprinkling single figures evenly everywhere.",
+      "Putting oversized figures next to small buildings.",
+      "Planting forests that block the buildings."
+    ],
+    "materials": [
+      {
+        "item": "Sisal bottle-brush trees, bleach, wood blocks",
+        "price_note": "",
+        "source": "https://www.semiglossdesign.com/how-to-make-diy-bottle-brush-trees"
+      },
+      {
+        "item": "Budget figures (Dollar Tree)",
+        "price_note": "3–5 figures per $1 pack (2014)",
+        "source": "https://dfarq.homeip.net/tips-for-using-dept-56-and-lemax-type-buildings-with-lionel-trains/"
+      }
+    ],
+    "applies_to_omar": "Your plaza already has three pieces that tell a story on their own: the carousel and popcorn cart, the clock tower, and the church with its skating pond. Keep any added figures to small, odd-numbered groups around them, like a family at the popcorn cart, carolers by the church, or skiers carrying their skis from the lift. On the mountain, use smaller bleached sisal trees between the wooden houses for depth, and taller trees at both ends of the shelf to frame the scene. Let the kids pick one scene each year.",
+    "sources": [
+      {
+        "title": "Christmas Village Display Tips: Elegant vs Tacky (TheChristmasVillages.com)",
+        "url": "https://thechristmasvillages.com/christmas-village-display/"
+      },
+      {
+        "title": "How to Make Your Christmas Village Feel More Personal (Lemax Village Journal)",
+        "url": "https://www.lemaxcollection.com/village-journal/how-to-make-your-christmas-village-feel-more-personal/"
+      },
+      {
+        "title": "How to Make DIY Bottle Brush Trees (Semigloss Design)",
+        "url": "https://www.semiglossdesign.com/how-to-make-diy-bottle-brush-trees"
+      },
+      {
+        "title": "Using forced perspective, Model Railroader (Trains.com)",
+        "url": "https://www.trains.com/mrr/how-to/expert-tips/using-forced-perspective/"
+      },
+      {
+        "title": "Tips for using Dept. 56 and Lemax-type buildings with Lionel trains (Dave Farquhar)",
+        "url": "https://dfarq.homeip.net/tips-for-using-dept-56-and-lemax-type-buildings-with-lionel-trains/"
+      }
+    ]
+  },
+  {
+    "id": "power-safety",
+    "title": "Power, Cords, Timers & Safety",
+    "icon": "🔌",
+    "summary": "Run everything to one power strip you can reach, keep power bricks out in the open air, turn the village off at night, and keep magnets and small parts away from little kids.",
+    "difficulty": "Easy",
+    "time": "1 evening",
+    "sections": [
+      {
+        "heading": "Managing cords",
+        "body_markdown": "1. Drill a hole behind each building and run the cords under the base or behind the risers.\n2. Bring them all to a power strip that sits out in the open at the back or on the floor. **Power strips, transformers and plugs give off heat, so never bury them under snow blankets, foam or fabric.**\n3. Label each plug with its building.\n4. Leave some slack at switches, and never trap a cord under fixed scenery where two sections meet."
+      },
+      {
+        "heading": "Switches and timers",
+        "body_markdown": "- One switch for the whole village is ideal. Canadian Villages runs everything off a single power bar.\n- **Be careful with animated pieces.** A Lemax retailer advises using each animated piece's own switch, because some collectors have blown circuit boards by cutting power with a strip or smart plug. Collectors' experiences vary.\n- A smart plug or timer on a lights-only strip is the low-risk way to schedule the glow."
+      },
+      {
+        "heading": "Fire and electrical safety (NFPA)",
+        "body_markdown": "- Use lights labeled by a recognized testing laboratory.\n- Replace any light sets with damaged cords or loose connections.\n- Follow the manufacturer's limit on how many sets you can connect together.\n- **Turn decorations off before bed or when you leave home.**\n- Don't assume foam is safe next to hot bulbs. LEDs run cooler."
+      },
+      {
+        "heading": "Kids and pets",
+        "body_markdown": "- **Magnets:** the CPSC warns that small, high-powered magnets can attract each other through the intestinal walls if swallowed, causing serious injury or death. If you think a child swallowed one, get medical care right away, even before symptoms show.\n- Woodland Scenics hobby products are labeled *not suitable for children under 14*.\n- Loose Epsom salt can make pets sick, and loose snow, glitter and small parts are choking hazards."
+      }
+    ],
+    "tips": [
+      "Keep power strips and transformers out in the open, never under snow or foam, and turn the village off at bedtime. (https://impactdriverdrill.com/diy-christmas-village-display-platform/)",
+      "NFPA: turn off all holiday lights and decorations before leaving home or going to bed. (https://www.nfpa.org/-/media/Project/Storefront/Catalog/Files/Safety-tip-sheets/ChristmasTreeSafetyTips.pdf)",
+      "Lemax: adapters last about 7–10 years, and voltage spikes shorten that. (https://support.lemaxcollection.com/support/solutions/articles/36000198602-power-adapter-faq-s)",
+      "CPSC: get medical help right away if a magnet may have been swallowed. (https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets)"
+    ],
+    "mistakes": [
+      "Burying power bricks under batting.",
+      "Connecting more light sets than the manufacturer allows.",
+      "Leaving the village on overnight.",
+      "Leaving loose magnets or tiny figures where toddlers can reach them."
+    ],
+    "materials": [
+      {
+        "item": "Surge-protected power strip, cord labels, adhesive cord clips",
+        "price_note": "",
+        "source": "https://impactdriverdrill.com/diy-christmas-village-display-platform/"
+      },
+      {
+        "item": "Smart plug or outlet timer (lights-only circuit)",
+        "price_note": "",
+        "source": "https://canadianvillages.com/blogs/news/powering-up-your-lemax-village"
+      }
+    ],
+    "applies_to_omar": "Mount the power strip and Lemax adapters on the wall side of the 4.5\" gap at the back, where they're reachable, have airflow, and are out of the kids' reach. Put a smart plug or timer on the lights-only strip so it shuts off at bedtime, and turn the animated pieces on and off with their own switches. Seal all skater and skier magnets inside their bases, keep the pond and any loose snow back from the front edge, and keep the ski-lift and pond motors low-voltage.",
+    "sources": [
+      {
+        "title": "How to Build a DIY Christmas Village Display Platform (ImpactDriverDrill)",
+        "url": "https://impactdriverdrill.com/diy-christmas-village-display-platform/"
+      },
+      {
+        "title": "Multi-Level Christmas Village Display Platforms: Planning and Materials (VillageDex)",
+        "url": "https://villagedex.com/blog/review-revision-how-to-build-multi-level-christmas-village-display-platform-20261014"
+      },
+      {
+        "title": "Christmas Tree and holiday lights safety tip sheet (NFPA, PDF)",
+        "url": "https://www.nfpa.org/-/media/Project/Storefront/Catalog/Files/Safety-tip-sheets/ChristmasTreeSafetyTips.pdf"
+      },
+      {
+        "title": "Power Adapter FAQs (Lemax Help Center)",
+        "url": "https://support.lemaxcollection.com/support/solutions/articles/36000198602-power-adapter-faq-s"
+      },
+      {
+        "title": "Powering up your Lemax Village (Canadian Villages)",
+        "url": "https://canadianvillages.com/blogs/news/powering-up-your-lemax-village"
+      },
+      {
+        "title": "Lemax Adapters & Lighting Systems (Sissy in Seattle)",
+        "url": "https://www.sissyinseattle.com/post/lemax-adapters-lighting-systems"
+      },
+      {
+        "title": "Magnets safety education center (U.S. CPSC)",
+        "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets"
+      },
+      {
+        "title": "I Accidentally Discovered the Best (and Cheapest) Fake Snow (Holiday Magic Hub)",
+        "url": "https://www.holidaymagichub.com/fake-snow/"
+      },
+      {
+        "title": "Realistic Water product page and FAQ (Woodland Scenics)",
+        "url": "https://woodlandscenics.woodlandscenics.com/show/Item/C1211"
+      }
+    ]
+  },
+  {
+    "id": "storage-setup",
+    "title": "Storage & Year-to-Year Setup",
+    "icon": "📦",
+    "summary": "Build the foam base in sections, photograph and label everything, never stack buildings, and store it all somewhere cool and dry.",
+    "difficulty": "Easy",
+    "time": "Teardown: 1–2 hours",
+    "sections": [
+      {
+        "heading": "Teardown checklist (VillageDex)",
+        "body_markdown": "1. Photograph the whole display from several angles.\n2. Remove figures and small accessories first.\n3. Unplug, coil and label every cord.\n4. Wrap each building right away: acid-free tissue first, then bubble wrap, held with painter's tape (not packing tape).\n5. Store the bins somewhere climate-controlled (about 60–75°F and 30–50% humidity) and dark. Avoid attics and unheated garages.\n6. Note any repairs needed and update your inventory."
+      },
+      {
+        "heading": "Storing the foam base",
+        "body_markdown": "Foam bases are light and can be carved into shapes and \"stored away off-season.\" Build the base in sections sized to fit your storage space, label each section along with the building that sits on it, and store the sections flat and padded so the carving doesn't get dented."
+      }
+    ],
+    "tips": [
+      "VillageDex's #1 rule: never let village buildings bear weight, because polyresin and porcelain are brittle. (https://villagedex.com/blog/how-to-store-christmas-village-pieces)",
+      "VillageDex: keep the original boxes if you can. The foam inserts fit perfectly and help with resale. (https://villagedex.com/blog/how-to-store-christmas-village-pieces)",
+      "r/ChristmasVillages: label each foam riser with the building that goes on it, since the building isn't going back into its packing while it's on display. (https://www.reddit.com/r/ChristmasVillages/comments/1oiw3xw/what_do_you_use_to_add_height_or_depth_to_your/)",
+      "Semigloss Design: store bottle-brush trees in a bag or box with nothing heavy on top, and keep them out of hot attics. (https://www.semiglossdesign.com/how-to-make-diy-bottle-brush-trees)"
+    ],
+    "mistakes": [
+      "Stacking boxed buildings on top of each other.",
+      "Storing pieces in the attic, where heat warps resin and fades paint.",
+      "Wrapping pieces in newspaper, since the ink rubs off.",
+      "Building the base as one piece that's too big to store."
+    ],
+    "materials": [
+      {
+        "item": "56–64 qt clear bins with dividers",
+        "price_note": "",
+        "source": "https://villagedex.com/blog/how-to-store-christmas-village-pieces"
+      },
+      {
+        "item": "Acid-free tissue, bubble wrap, painter's tape, silica gel packs",
+        "price_note": "",
+        "source": "https://villagedex.com/blog/how-to-store-christmas-village-pieces"
+      }
+    ],
+    "applies_to_omar": "Build the 73.5\" base as about three sections (for example the plaza and town, the middle slope, and the upper mountain), and split them along natural lines like a rock ledge, the pond edge or a stair landing so the seams hide in the scenery. Add a couple of dowel pins between sections so they line up the same way every year. Run cords in channels that don't cross a seam, or put a plug at each seam. Photograph the finished layout and save the planner layout too, since it doubles as your setup map.",
+    "sources": [
+      {
+        "title": "How to Store and Protect Your Christmas Village (VillageDex)",
+        "url": "https://villagedex.com/blog/how-to-store-christmas-village-pieces"
+      },
+      {
+        "title": "Combining Trains & Towns (Big Christmas Trains, Paul D. Race)",
+        "url": "https://bigchristmastrains.com/primer/combining_trains_n_towns/combining_trains_n_towns.htm"
+      },
+      {
+        "title": "Village Landscaping 101 (Hot Wire Foam Factory)",
+        "url": "https://gallery.hotwirefoamfactory.com/modeling/village-displays/vd_village101/"
+      },
+      {
+        "title": "What do you use to add height or depth to your villages? (r/ChristmasVillages)",
+        "url": "https://www.reddit.com/r/ChristmasVillages/comments/1oiw3xw/what_do_you_use_to_add_height_or_depth_to_your/"
+      },
+      {
+        "title": "How to Make DIY Bottle Brush Trees (Semigloss Design)",
+        "url": "https://www.semiglossdesign.com/how-to-make-diy-bottle-brush-trees"
+      }
+    ]
+  }
+]
