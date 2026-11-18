@@ -1,11 +1,12 @@
-# Christmas Village Upgrades — 3D model
+# Christmas Village Planner — 3D
 
-Interactive 3-D view of recommended enhancements for a DIY tabletop Christmas village.
+Interactive 3D plan for a Christmas village on a 73.5 × 16.5 in shelf with a carved EPS foam platform: raised left and right terraces with back tiers, a lower cobblestone city-center plaza for the motion and light dioramas, rock retaining edges, steps between levels, and cords routed through the foam and down the 4.5 in back gap into the cubby.
 
-Open the live page: **https://omarsimpson24.github.io/xmas-village-3d/**
+Open: https://omarsimpson24.github.io/xmas-village-3d/
 
-- Drag or swipe to rotate, pinch or scroll to zoom
-- Tap any item for its number, what it is, specs, quantity, estimated cost, and a how-to tip
-- Use the buttons for top, side, and front views, to separate the build layers, or to open the parts list and isolate an item
+- Drag to rotate, pinch or scroll to zoom, tap any piece for details.
+- **Move** lets you drag pieces onto platform surfaces (layout saved in this browser).
+- **Plan** gives a top view with dimensions; **Layers** separates the foam layers; **Cut list** gives every foam piece and the step rise and run.
+- **Notes** shows which dimensions are measured and which are estimates to measure, and lets you change shelf width, depth and carousel length.
 
-Assumes a 4 ft × 2 ft base of 2 in EPS foam; houses are placeholders. Costs are rough 2026 US retail estimates, not quotes. The repository is a static HTML page only; it does not contain personal information.
+Prices are estimated ranges taken from store listings and can change.
